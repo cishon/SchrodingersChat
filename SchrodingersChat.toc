@@ -1,0 +1,8 @@
+## Interface: 60200
+## Author: Cishon
+## Version: 0.1
+## Title: Schrodinger's Chat
+## Notes: Crossrealm Chat Support
+## SavedVariables: SchroChat
+
+main.lua
